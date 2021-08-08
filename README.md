@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in remote front-end developer opportunities
+- 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/nicolemairejones/
 
 <!---
